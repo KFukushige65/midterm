@@ -1,14 +1,29 @@
-function plus(){
+function plus(m, n){
+    let result;
+    result = m + n;
+    return result;
 }
 
-function minus(){
+function minus(m, n){
+    let result;
+    result = m - n;
+    return result;
 }
 
-function times(){
+function times(m, n){
+    let result;
+    result = m * n;
+    return result;
 }
 
-function div(){
+function div(m, n){
+    let result;
+    result = m / n;
+    return result;
 }
 
-function mod(){  
+function mod(m, n){
+    let result;
+    result = m % n;
+    return result;  
 }
